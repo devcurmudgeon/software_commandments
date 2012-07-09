@@ -1,0 +1,67 @@
+The Teleca Commandments :-)
+or … 50 ways to leave Teleca earning more than when you joined :-)
+or … How to be (recognised as) an Excellent Software Engineer
+
+Keeping Teleca Happy
+1 Commit to deliver, to help, to learn, and to improve
+2 Old-fashioned values: honesty, reliability & hard work
+3 Finish your project…beat your milestones :-)
+4 Solve problems
+5 Never leave a mess behind you
+6 Write effectively, speak effectively
+7 Think for yourself: challenge bad decisions
+8 Prompt, accurate timesheets & expenses 
+9 When you mess up, own up!
+
+Keeping Customers Happy
+10 Communicate
+11 If in doubt, ask. And keep asking until you are answered
+12 Clean as you go, document as you go
+13 Understand the objectives of your assignment
+14 Know your deadlines, hit them or forewarn
+15 Keep a log book and use it every day
+16 Always keep your own backup….offsite!?
+17 Get holiday approval, inform of sickness
+
+Programming
+18 RTFM. Do not re-write what already exists. EVER
+19 If it isn’t in the spec, why are you writing it?
+20 If there isn’t a spec/design, write a tiny one and agree it
+21 Code LESS: every line creates a  work-chain
+22 Understand why code style is important. Comply
+23 Get someone to review your code
+24 Use version control, *with* comment
+25 Don’t stay stuck: get help!
+26 Quality code WORKS! All the time.
+27 The bug stops here!
+
+Testing
+28 You are responsible
+29 Don’t be gentle, break it!
+30 Identify tests in advance: write a test plan
+31 Look for difficult, off-the-wall cases too
+32 If it can’t be tested, it shouldn’t be there
+33 If someone else finds a bug after you’ve said it works, kick yourself!
+
+Design
+34 Establish constraints and write them down
+35 Design defensively 
+36 Design for team
+37 Design for testability
+38 Design must be communicated in writing
+39 First idea isn’t necessarily best: consider alternatives, discuss
+40 Good design is methodology-independent!
+41 K I S S
+
+Estimating
+42 Discuss!
+43 If you’re unsure, say so
+44 If you need more information, ask for it
+45 Compare like-for-like
+46 Break down into component tasks
+47 Consider previous productivity
+48 Estimate the whole job, not just a code prototype!
+49 State what your estimate includes
+50 Don’t be over-optimistic. It’s ALWAYS worse than you think.
+
+Paul Sherwood 14/11/96					© Teleca Limited 1996
