@@ -4,20 +4,20 @@ or … How to be (recognised as) an Excellent Software Engineer
 
 Keeping Teleca Happy
 1 Commit to deliver, to help, to learn, and to improve
-2 Old-fashioned values: honesty, reliability & hard work
+2 Old-fashioned values: be honest, be reliable & work hard
 3 Finish your project…beat your milestones :-)
 4 Solve problems
 5 Never leave a mess behind you
-6 Write effectively, speak effectively
+6 6 Speak effectively, write effectively (try to make your point on a single page)
 7 Think for yourself: challenge bad decisions
 8 Prompt, accurate timesheets & expenses 
-9 When you mess up, own up!
+9 When you mess up, own up! And LEARN from your mistakes
 
 Keeping Customers Happy
-10 Communicate
+10 Know who your customers are, and COMMUNICATE with them
 11 If in doubt, ask. And keep asking until you are answered
 12 Clean as you go, document as you go
-13 Understand the objectives of your assignment
+13 Understand the objectives of your assignment from your Customer’s point of view
 14 Know your deadlines, hit them or forewarn
 15 Keep a log book and use it every day
 16 Always keep your own backup….offsite!?
@@ -28,7 +28,7 @@ Programming
 19 If it isn’t in the spec, why are you writing it?
 20 If there isn’t a spec/design, write a tiny one and agree it
 21 Code LESS: every line creates a  work-chain
-22 Understand why code style is important. Comply
+22 Understand why code style is important, and COMPLY with existing style
 23 Get someone to review your code
 24 Use version control, *with* comment
 25 Don’t stay stuck: get help!
@@ -36,32 +36,32 @@ Programming
 27 The bug stops here!
 
 Testing
-28 You are responsible
+28 YOU are responsible 28 for testing every line of code you write!
 29 Don’t be gentle, break it!
 30 Identify tests in advance: write a test plan
 31 Look for difficult, off-the-wall cases too
 32 If it can’t be tested, it shouldn’t be there
-33 If someone else finds a bug after you’ve said it works, kick yourself!
+33 If someone else finds a bug after you’ve said it works, kick yourself and improve your practice!
 
 Design
 34 Establish constraints and write them down
-35 Design defensively 
-36 Design for team
+35 Design defensively: garbage in DOES NOT equal garbage out!
+36 Design for team: provide clear internal interfaces
 37 Design for testability
 38 Design must be communicated in writing
 39 First idea isn’t necessarily best: consider alternatives, discuss
-40 Good design is methodology-independent!
-41 K I S S
+40 Good design is methodology-independent! OO is not a magic bullet
+41 K I S S: simplicity is ALWAYS a design objective
 
-Estimating
-42 Discuss!
-43 If you’re unsure, say so
-44 If you need more information, ask for it
-45 Compare like-for-like
-46 Break down into component tasks
-47 Consider previous productivity
-48 Estimate the whole job, not just a code prototype!
-49 State what your estimate includes
-50 Don’t be over-optimistic. It’s ALWAYS worse than you think.
+Estimating, Planning & Management
+42 If you’re unsure, say so; if you need more information, ask for it
+43 Break down into component tasks
+44 Consider previous productivity; compare like-for-like
+45 Estimate the whole job, not just the first coding phase!
+46 State what your estimate includes, and what it DOESN’T include
+47 Discuss your plan/estimate! Get someone else to spot what you’ve missed
+48 Don’t be over-optimistic. It’s ALWAYS worse than you think.
+49 Nail the risks, before they nail you!
+50 After all the above, bear in mind you could still get it WRONG! So make friends
 
-Paul Sherwood 14/11/96					© Teleca Limited 1996
+Paul Sherwood		V2.0	© Teleca Limited 1996, 1999
