@@ -1,10 +1,7 @@
 This project currently includes 
 
-- a copy of the original commandments from 1996 in MS-Word format
-- version 2.0 in both PDF and Libre Office formats.
-
-For both these versions a design goal was to keep the document to a single side of paper. 
-Arguably there's too much information - so I am considering adopting a different format. 
+- copies of the original commandments from 1996 and 1999 in MS-Word format
+- the latest software commandments in markdown format
 
 Any contributions in the following areas will be gratefully considered
 - improve/clarify the text 
