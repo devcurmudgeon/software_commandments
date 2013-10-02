@@ -24,7 +24,7 @@ CODING
 17 If it isn’t specified as a requirement, don't code it. If the agreed spec is wrong, challenge it
 18 Understand why code style is important, and comply with existing style
 19 Get someone to review your code. Learn from the reviews, don't take it personally
-20 Use version control - ideally GIT. Commit early, commit often, *with* descriptive comments
+20 Use version control, ideally Git. Commit early and often, with descriptive comments, and push your commits!
 21 Quality code WORKS! All the time
 22 The bug stops here! You are responsible for testing and fixing every line of code you write
 23 Remove uncertainty as fast as possible. Prototype, learn and iterate
