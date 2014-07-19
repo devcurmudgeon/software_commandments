@@ -14,7 +14,7 @@ GENERAL
 37. K I S S - simplicity is ALWAYS an objective - for ui, code, design, test, process, delivery, documentation
 10. Think for yourself: challenge bad decisions, escalate if necessary - stay calm and polite
 11. Make sure you *really* understand the objectives/target of the project, from your customer's point of view
-12. Keep a log book and use it every day
+12. Keep a log (paper or digital) and use it every day
 13. Always keep your own backups, and make sure you can restore
 
 CODING
