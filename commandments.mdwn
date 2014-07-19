@@ -11,6 +11,7 @@ GENERAL
 7. Finish your project. Know your deadlines, hit them if you can, shout if you realize you can't
 8. Solve problems, and help others to solve problems too – everyone learns faster that way
 9. Never leave a mess behind you: this applies to your project, the kitchen AND the bathroom!
+37. K I S S - simplicity is ALWAYS an objective - for ui, code, design, test, process, delivery, documentation
 10. Think for yourself: challenge bad decisions, escalate if necessary - stay calm and polite
 11. Make sure you *really* understand the objectives/target of the project, from your customer's point of view
 12. Keep a log book and use it every day
@@ -47,7 +48,6 @@ DESIGN
 34. Design should be communicated clearly in writing, pictures or both
 35. The first idea isn’t necessarily best: consider alternatives, discuss
 36. Great design (and leadership) is methodology-independent
-37. K I S S - simplicity is ALWAYS a design objective
 
 ESTIMATING
 ==========
