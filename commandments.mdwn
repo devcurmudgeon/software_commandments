@@ -11,43 +11,43 @@ GENERAL
 7. Finish your project. Know your deadlines, hit them if you can, shout if you realize you can't
 8. Solve problems, and help others to solve problems too – everyone learns faster that way
 9. Never leave a mess behind you: this applies to your project, the kitchen AND the bathroom!
-37. K I S S - simplicity is ALWAYS an objective - for ui, code, design, test, process, delivery, documentation
-10. Think for yourself: challenge bad decisions, escalate if necessary - stay calm and polite
-11. Make sure you *really* understand the objectives/target of the project, from your customer's point of view
-12. Keep a log (paper or digital) and use it every day
-13. Always keep your own backups, and make sure you can restore
+10. K I S S - simplicity is ALWAYS an objective - for ui, code, design, test, process, delivery, documentation
+11. Think for yourself: challenge bad decisions, escalate if necessary - stay calm and polite
+12. Make sure you *really* understand the objectives/target of the project, from your customer's point of view
+13. Keep a log (paper or digital) and use it every day
+14. Always keep your own backups, and make sure you can restore
 
 CODING
 ======
-14. Code LESS: every line creates a work-chain. Code is a liability, not an asset
-15. Read the documentation, use existing code if possible. Don't re-create what already exists
-16. If there isn’t a spec/definition, write a short one (with constraints, goals, non-goals) and agree it
-17. If it isn’t specified as a requirement, don't code it. If the agreed spec is wrong, challenge it
-18. Understand why code style is important, and comply with existing style
-19. Get someone to review your code. Learn from the reviews, don't take it personally
-20. Use version control, ideally Git. Commit early and often, with descriptive comments, and push your commits!
-21. Quality code WORKS! All the time
-22. The bug stops here! You are responsible for testing and fixing every line of code you write
-23. Remove uncertainty as fast as possible. Prototype, learn and iterate
-24. Set yourself doable targets every day and every week. If you're not making daily progress, shout
+15. Code LESS: every line creates a work-chain. Code is a liability, not an asset
+16. Read the documentation, use existing code if possible. Don't re-create what already exists
+17. If there isn’t a spec/definition, write a short one (with constraints, goals, non-goals) and agree it
+18. If it isn’t specified as a requirement, don't code it. If the agreed spec is wrong, challenge it
+19. Understand why code style is important, and comply with existing style
+20. Get someone to review your code. Learn from the reviews, don't take it personally
+21. Use version control, ideally Git. Commit early and often, with descriptive comments, and push your commits!
+22. Quality code WORKS! All the time
+23. The bug stops here! You are responsible for testing and fixing every line of code you write
+24. Remove uncertainty as fast as possible. Prototype, learn and iterate
+25. Set yourself doable targets every day and every week. If you're not making daily progress, shout
 
 TESTING
 =======
-25. Test behaviour, not structure. Don’t be gentle, break it!
-26. Write down what you need to test before or at the same time as you write the code
-27. Look for difficult, unexpected cases too
-28. If it can’t be tested, it shouldn’t be there
-29. If there's a test framework, use it. Aggressively replace/remove tests when things change
-30. If someone else finds a bug after you’ve said it works, kick yourself and improve your practice!
+26. Test behaviour, not structure. Don’t be gentle, break it!
+27. Write down what you need to test before or at the same time as you write the code
+28. Look for difficult, unexpected cases too
+29. If it can’t be tested, it shouldn’t be there
+30. If there's a test framework, use it. Aggressively replace/remove tests when things change
+31. If someone else finds a bug after you’ve said it works, kick yourself and improve your practice!
 
 DESIGN
 ======
-31. Establish constraints and write them down
-32. Plan to remove uncertainty fast - prototype and test against realistic scenarios ASAP
-33. Design for testability, and design defensively: garbage in DOES NOT equal garbage out!
-34. Design should be communicated clearly in writing, pictures or both
-35. The first idea isn’t necessarily best: consider alternatives, discuss
-36. Great design (and leadership) is methodology-independent
+32. Establish constraints and write them down
+33. Plan to remove uncertainty fast - prototype and test against realistic scenarios ASAP
+34. Design for testability, and design defensively: garbage in DOES NOT equal garbage out!
+35. Design should be communicated clearly in writing, pictures or both
+36. The first idea isn’t necessarily best: consider alternatives, discuss
+37. Great design (and leadership) is methodology-independent
 
 ESTIMATING
 ==========
