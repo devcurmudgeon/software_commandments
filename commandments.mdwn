@@ -70,4 +70,4 @@ MANAGING
 
 In case things still don't work out after all of the above, keep making friends...
 
-© Paul Sherwood, Codethink 1996-2013
+© Paul Sherwood (et al) 1996 - now
