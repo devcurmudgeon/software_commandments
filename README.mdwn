@@ -1,7 +1,7 @@
 # THE SOFTWARE COMMANDMENTS
 ## GENERAL
 - Commit to deliver, to help, to learn, and to improve
-- Be honest, be reliable, and work hard
+- Be honest, be reliable, work hard. But work smart too - minimise loop time on repeating tasks
 - When you mess up, own up! And LEARN from your mistakes
 - Don't stay stuck, get help! If you're in a hole, stop digging. If in doubt, ask. Keep asking til you're answered
 - Communicate! Keep colleagues and customers informed - avoid surprises
