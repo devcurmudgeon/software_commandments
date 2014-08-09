@@ -11,7 +11,7 @@
 - Never leave a mess behind you: this applies to your project, the kitchen AND the bathroom!
 - K I S S - simplicity is ALWAYS an objective - for ui, code, design, test, process, delivery, documentation
 - Think for yourself: challenge bad decisions, escalate if necessary - stay calm and polite
-- Make sure you *really* understand the objectives/target of the project, from your customer's point of view
+- Make sure you *really* understand the project objectives/targets, from the customer and user p.o.v.
 - Keep a log (paper or digital) and use it every day
 - Always keep your own backups, and make sure you can restore
 
