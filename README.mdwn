@@ -22,7 +22,7 @@
 - If it isn’t specified as a requirement, don't code it. If the agreed spec is wrong, challenge it
 - Understand why code style is important, and comply with existing style
 - Get someone to review your code. Learn from the reviews, don't take it personally
-- Use version control, ideally Git. Commit early and often, with descriptive comments, and push your commits!
+- Use version control, ideally Git. Commit early and often, with clear comments. Remember to push your commits!
 - Quality code WORKS! All the time
 - The bug stops here! You are responsible for testing and fixing every line of code you write
 - Remove uncertainty as fast as possible. Prototype, learn and iterate
