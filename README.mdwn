@@ -33,7 +33,7 @@
 - Write down what you need to test before or at the same time as you write the code
 - Look for difficult, unexpected cases too
 - If it can’t be tested, it shouldn’t be there
-- If there's a test framework, use it. Aggressively replace/remove tests when things change
+- Use a test suite. Know when to add, replace or remove tests when the codebase changes
 - If someone else finds a bug after you’ve said it works, kick yourself and improve your practice!
 
 ## DESIGN
