@@ -28,7 +28,7 @@
 - Remove uncertainty as fast as possible. Prototype, learn and iterate
 - Set yourself doable targets every day and every week. If you're not making daily progress, shout
 
-##TESTING
+## TESTING
 - Test behaviour, not structure. Don’t be gentle, break it!
 - Write down what you need to test before or at the same time as you write the code
 - Look for difficult, unexpected cases too
